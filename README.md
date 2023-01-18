@@ -118,13 +118,6 @@ for i in xrange(0, blocks_num):
 
 
 
-
-## Demo
-The blockchain application prints out each hash along with a relative index.
-
-![Demo](md_assets/demo.png)
-
-
 ## License
 
 🌱 MIT 🌱
