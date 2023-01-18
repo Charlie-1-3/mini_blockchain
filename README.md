@@ -130,9 +130,3 @@ The blockchain application prints out each hash along with a relative index.
 🌱 MIT 🌱
 
 ---
-
-
-> ![home](http://yuzhoujr.com/legacy/emoji/home.svg)
-[yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> ![github](http://yuzhoujr.com/legacy/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> ![linkedin](http://yuzhoujr.com/legacy/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
